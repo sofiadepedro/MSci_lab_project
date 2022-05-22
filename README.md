@@ -21,7 +21,7 @@
       Files "local_functions.py" and "globals.py" contain code that is reused in various files
  
 
-### Folder "expt_cold_time" contains the code of my first experiment: Studying the effect of touch on cooling perceived intensities using scaling (Figure 5)
+### Folder "expt_cold_time" contains the code of my second experiment: Effect of onset delay between tactile and cooling stimulations in the sensitivity to a cooling input (Figure 5)
   
   ##### Folder "src_testing" contains the code used to design the experiment and control the hardware during the experimental session.
       Files "thermal_camera_check.py", "zabers_check.py, and "touch_stability.py" are used to check that the set-up is working
